@@ -1,16 +1,23 @@
-## Hi there 👋
+<table>
+    <tr>
+        <!-- Ajuste da largura da célula -->
+        <td style="width: 70%;">
+            <!-- Ajuste da largura da imagem -->
+            <img src="https://github.com/l-vs-maia/l-vs-maia/blob/main/tough_one.jpg" style="width:100%; border: none;"/>
+        </td>
+        <td style="width: 30%; vertical-align: middle;">
+            <p style="font-family: monospace; font-size: 80px;">    
+                
+        𝙻𝚞𝚌𝚊𝚜 𝙼𝚊𝚒𝚊
+    
+</p>                                                                                                                            
+     
+about me ☆
 
-<!--
-**l-vs-maia/l-vs-maia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+    │▸ 𝚑𝚎/𝚑𝚒𝚖 - 𝚋𝚛𝚊𝚣𝚒𝚕𝚒𝚊𝚗 - (𝚙𝚝/𝚋𝚛 + 𝚎𝚗𝚐𝚕𝚒𝚜𝚑)
+        ┗ ▸ 𝚋𝚊𝚌𝚔𝚎𝚗𝚍 & 𝚊𝚒 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛                                              
+    │▸ 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐
+        ┗ ▸  𝚙𝚢𝚝𝚑𝚘𝚗
+          ▸  𝚙𝚢𝚝𝚑𝚘𝚗 𝚏𝚘𝚛 𝚍𝚊𝚝𝚊 𝚊𝚗𝚊𝚕𝚢𝚜𝚒𝚜
+          ▸  𝚊𝚒
